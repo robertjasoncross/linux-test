@@ -1,1 +1,1 @@
-print("this is a test case from windows")
+print("this is a test case from Linux beotch")
